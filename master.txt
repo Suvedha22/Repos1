@@ -1,0 +1,7 @@
+first i congigure git using- git config user.name "ss" and email-git config user.email "ss"
+then i create a folder Git_1 using-mkdir Git_1
+then i move into the Git_1 folder-cd Git_1/
+then i create a another folder in Git_1 using- mkdir Repos1
+then i move into the Repos1 using-cd Repos1/
+and make Repos1 folder as a repository of git using -git init
+then it is shown as the master.
