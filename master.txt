@@ -5,3 +5,7 @@ then i create a another folder in Git_1 using- mkdir Repos1
 then i move into the Repos1 using-cd Repos1/
 and make Repos1 folder as a repository of git using -git init
 then it is shown as the master.
+then i create a touch master.txt
+notepad master.txt
+again create another master1.txt
+notepad master1.txt
